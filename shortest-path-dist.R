@@ -1,4 +1,5 @@
-# author: Robert Cope (2015) robert.cope@adelaide.edu.au
+# author: Robert Cope (2015) The University of Adelaide 
+# robert.cope@adelaide.edu.au
 
 #This program is free software: you can redistribute it and/or modify
 #it under the terms of the GNU General Public License as published by
